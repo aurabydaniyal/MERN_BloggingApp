@@ -49,53 +49,6 @@ A modern, full-stack blogging platform built with the MERN stack featuring stunn
 
 ---
 
-## 📁 Project Structure
-
-mern-blogging-app/
-├── backend/
-│   ├── src/
-│   │   ├── config/
-│   │   │   └── database.js
-│   │   ├── models/
-│   │   │   ├── User.js
-│   │   │   └── Blog.js
-│   │   ├── controllers/
-│   │   │   ├── authController.js
-│   │   │   └── blogController.js
-│   │   ├── routes/
-│   │   │   ├── authRoutes.js
-│   │   │   └── blogRoutes.js
-│   │   ├── middleware/
-│   │   │   ├── auth.js
-│   │   │   └── validation.js
-│   │   └── server.js
-│   ├── package.json
-│   └── .env
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   │   ├── auth/
-    │   │   │   ├── Login.jsx
-    │   │   │   └── Signup.jsx
-    │   │   ├── blogs/
-    │   │   │   ├── BlogCard.jsx
-    │   │   │   ├── BlogForm.jsx
-    │   │   │   └── BlogList.jsx
-    │   │   ├── common/
-    │   │   │   └── Navbar.jsx
-    │   │   └── home/
-    │   │       └── Home.jsx
-    │   ├── context/
-    │   │   └── AuthContext.jsx
-    │   ├── styles/
-    │   │   └── globals.css
-    │   ├── App.jsx
-    │   └── index.js
-    ├── package.json
-    └── tailwind.config.js
-
----
-
 ## 💻 Installation
 
 **Prerequisites:** Node.js (v14 or higher), npm or yarn, MongoDB (local or Atlas)
