@@ -13,7 +13,6 @@ A modern, full-stack blogging platform built with the MERN stack featuring stunn
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
 - [Installation](#-installation)
 - [Environment Variables](#-environment-variables)
 - [Running the Application](#-running-the-application)
@@ -55,16 +54,16 @@ A modern, full-stack blogging platform built with the MERN stack featuring stunn
 
 **Clone and Setup:**
 
-git clone https://github.com/aurabydaniyal/MERN_BloggingApp.git
-cd MERN_BloggingApp
+- git clone https://github.com/aurabydaniyal/MERN_BloggingApp.git
+- cd MERN_BloggingApp
 
-cd backend
-npm install
-npm run dev
+- cd backend
+- npm install
+- npm run dev
 
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 **Environment Variables (.env):**
 
