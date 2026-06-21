@@ -102,8 +102,8 @@ mern-blogging-app/
 
 **Clone and Setup:**
 
-git clone https://github.com/YOUR_USERNAME/mern-blogging-app.git
-cd mern-blogging-app
+git clone https://github.com/aurabydaniyal/MERN_BloggingApp.git
+cd MERN_BloggingApp
 
 cd backend
 npm install
@@ -237,14 +237,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👏 Acknowledgments
 
 Tailwind CSS, Heroicons, React Hot Toast, Mongoose
-
----
-
-## 📞 Contact
-
-Author: Your Name
-GitHub: YourUsername
-Email: your.email@example.com
 
 ---
 
