@@ -5,7 +5,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.x-brightgreen.svg)](https://www.mongodb.com/)
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.com/)
 
-A modern, full-stack blogging platform built with the MERN stack featuring stunning glassmorphism UI with a golden theme, complete JWT authentication, and real-time blog management.
+A modern, full-stack blogging platform built with the MERN stack featuring stunning glassmorphism UI with a golden theme, complete JWT authentication, and real-time blog management. 
 
 ---
 
